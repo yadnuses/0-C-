@@ -8,6 +8,10 @@
 
 <br>
 
+[![新手上手指南](https://img.shields.io/badge/📖_新手上手指南-点这里开始-2A9D8F?style=for-the-badge)](https://hcne37wbg3ch.feishu.cn/docx/C1BgdlfLSoWXGNxKDUKcbuOynEf?from=from_copylink)
+
+<br>
+
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![Compiler](https://img.shields.io/badge/Compiler-gcc-FF6C37?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org/)
 [![Exam](https://img.shields.io/badge/考研-408-E63946?style=for-the-badge)](#)
