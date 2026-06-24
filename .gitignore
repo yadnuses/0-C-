@@ -1,0 +1,22 @@
+# 编译产物（无后缀可执行文件 / Windows 可执行文件）
+*.exe
+*.out
+*.o
+*.obj
+demo
+lianxi
+lx
+debug
+a.out
+
+# 调试符号
+*.dSYM/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
